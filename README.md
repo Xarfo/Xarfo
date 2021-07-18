@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I am <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.accenture.com/">Accenture</a> with passion in writting highly optimized JavaScript code, or attempting to, while continuing to learn.
+I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.accenture.com/">Accenture</a> with passion in writting highly optimized JavaScript code, or attempting to, while continuing to learn.
 
 
 
