@@ -2,7 +2,16 @@
 
 I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.visible.com/">Visible by Verizon</a>. I develop scalable, maintainable and accessible web applications. I value problem solving, communication and collaboration as integral part of the creative process of software engineering. 
 
+## 🔧 Tools I Like To Use
 
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [styled-components](https://styled-components.com/)
+- [Storybook](https://storybook.js.org/)
+- [Sass](https://sass-lang.com/)
+- [GreenSock](https://greensock.com/gsap/)
 
 <small>❯❯ Please follow me on: ↓</strong>
 
