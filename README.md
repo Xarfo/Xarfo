@@ -14,10 +14,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [GreenSock](https://greensock.com/gsap/)
 
 
-## 📫 ![image](https://user-images.githubusercontent.com/38052463/168395311-9b147f4f-a1b4-4cd8-a0d9-a75218139ea1.png)
-How to reach me:
-
-<small>❯❯ Please follow me on: ↓</strong>
+## 📫 Connect with me: ↓
 
 
 [![Twitter](https://img.shields.io/twitter/follow/skepticalnomad?label=%40skepticalnomad&style=social)][t] [![Github](https://img.shields.io/github/followers/xarfo?style=social&label=Follow)][g] 
