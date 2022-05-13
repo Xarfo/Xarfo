@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## About Me
 
-I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.visible.com/">Visible by Verizon</a>. I develop scalable, maintainable and accessible web applications. I value problem solving, communication and collaboration as integral part of the creative process of software engineering. 
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.visible.com/">Visible by Verizon</a>. I develop scalable, maintainable and accessible web applications. I value problem solving, communication and collaboration as integral part of the creative process of software engineering. 
 
 ## 🔧 Tools I Like To Use
 
@@ -13,8 +13,8 @@ I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-b
 - [Sass](https://sass-lang.com/)
 - [GreenSock](https://greensock.com/gsap/)
 
-<small>❯❯ Please follow me on: ↓</strong>
 
+## <small>❯❯ Please follow me on: ↓</strong>
 
 
 [![Twitter](https://img.shields.io/twitter/follow/skepticalnomad?label=%40skepticalnomad&style=social)][t] [![Github](https://img.shields.io/github/followers/xarfo?style=social&label=Follow)][g] 
