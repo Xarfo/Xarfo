@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.asurion.com/">Verizon</a> with passion in writting highly optimized JavaScript code, or attempting to, while continuing to learn.
+I am a <img align="center" src="https://img.shields.io/badge/Software-Engineer-brightgreen"/></a> at <a href="https://www.visible.com/">Visible by Verizon</a>. I develop scalable, maintainable and accessible web applications. I value problem solving, communication and collaboration as integral part of the creative process of software engineering. 
 
 
 
