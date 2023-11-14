@@ -7,7 +7,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Gatsby](https://www.gatsbyjs.com/)
 - [styled-components](https://styled-components.com/)
 - [Storybook](https://storybook.js.org/)
 - [Sass](https://sass-lang.com/)
