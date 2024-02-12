@@ -7,9 +7,9 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en)
 - [TypeScript](https://www.typescriptlang.org/)
-- [styled-components](https://styled-components.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Storybook](https://storybook.js.org/)
-- [Sass](https://sass-lang.com/)
+- [Remix](https://remix.run/)
 - [GreenSock](https://greensock.com/gsap/)
 
 
